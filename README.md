@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sunita708
 - 👀 I’m interested in ...Automation
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...PP
+- 🌱 I’m currently learning ...New Stuff(Karate/Puppeteer/JS/....)
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://www.linkedin.com/in/sunita-yadav-145498154/
 
 <!---
